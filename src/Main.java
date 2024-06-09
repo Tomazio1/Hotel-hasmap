@@ -118,7 +118,7 @@ public class Main {
                 break;
 
             case 3:
-                System.out.println("============= Checkout ============");
+                System.out.println("============ Checkout ===========");
                 System.out.println("=====Digite o código da reserva: ");
                 codigin = read.nextInt();
 
